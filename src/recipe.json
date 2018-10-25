@@ -1,0 +1,25 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Potato Salad",
+      "image": "https://assets.marthastewart.com/styles/wmax-570/d30/classic-potato-salad-103332815/classic-potato-salad-103332815_sq.jpg?itok=1ZmCkGj_",
+      "ingredients": [
+        "Russet potatoes",
+        "Distilled white vinegar",
+        "Mayonnaise",
+        "Whole-grain mustard",
+        "Celery",
+        "Cornichons",
+        "Scallions"
+      ],
+      "directions": [
+        "PREP POTATOES - Peel 3 pounds russet potatoes (about 6 medium). Slice lengthwise into 1-inch-thick planks. Lay flat and slice again into 1-inch-thick strips. Stack strips together and cut crosswise into even cubes.",
+        "COOK & SEASON - In a large pot, cover potatoes with at least 2 inches of water and season generously with kosher salt. Bring to a boil, then reduce heat to medium-high and continue boiling until potatoes are tender and easily pierced with the tip of a knife, 8 to 9 minutes. Drain and transfer to a bowl. Toss with 2 tablespoons vinegar; season with salt and freshly ground pepper. Let cool completely, about 30 minutes.",
+        "DRESS TO IMPRESS - Meanwhile, whisk together 3/4 cup mayonnaise, 2 tablespoons mustard, and 1 tablespoon vinegar. Stir in 1 cup finely chopped celery (from 3 stalks); 1/2 cup sliced cornichons (from about 20); and 1/3 cup finely chopped scallions (from 3). Gently fold mayonnaise mixture into cooked potatoes; season with salt and pepper. Serve, or refrigerate in an airtight container up to 1 day (bring to room temperature before serving, about 30 minutes)."
+      ],
+      "labels": ["vegeterian", "gluten free"],
+      "copyright": "© COPYRIGHT 2018, MARTHA STEWART LIVING OMNIMEDIA, INC. ALL RIGHTS RESERVED."
+    }
+  ]
+}
